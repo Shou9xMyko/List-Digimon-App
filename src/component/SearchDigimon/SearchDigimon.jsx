@@ -49,7 +49,11 @@ function SearchDigimon() {
   return (
     <Container fluid className="mt-5">
       <Row>
-        <Col sm={12} md={10} className="p-0 pe-3 d-flex align-items-center">
+        <Col
+          sm={12}
+          md={10}
+          className="p-0 pe-sm-0 pe-md-3  d-flex align-items-center"
+        >
           <InputGroup>
             <Form.Control
               className="shadow-none"
