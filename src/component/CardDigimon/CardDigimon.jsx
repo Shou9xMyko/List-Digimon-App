@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import Card from "react-bootstrap/Card";
 import { Row, Col } from "react-bootstrap";
 
